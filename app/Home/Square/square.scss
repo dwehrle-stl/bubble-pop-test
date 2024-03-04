@@ -1,0 +1,8 @@
+$length: 200px;
+
+.square {
+	background-color: red;
+	border: 1px solid black;
+	height: $length;
+	width: $length;
+}
